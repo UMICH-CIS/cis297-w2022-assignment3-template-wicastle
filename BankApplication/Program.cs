@@ -6,10 +6,24 @@ using System.Threading.Tasks;
 
 namespace BankApplication
 {
+    class Account
+    {
+
+
+    }
+
+    class SavingsAccount
+    {
+
+
+    }
+
+
     class Program
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
